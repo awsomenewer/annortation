@@ -1,7 +1,10 @@
 # Annortation Box
 
+
 About AnnotationBox
-Annotate is the best image annotation box tool for ML
+
+Annotate is the best image annotation box tool for ML.
+
 Annotate is the best image annotation box tool for ML. Download the app and get annotating immediately. The app requires no logins or unnecessary permissions. The app has no ads or annoying notifications either. It does exactly what it promises and we aim to ensure that you annotate your pictures as fast as possible.
 
 Key Features:
