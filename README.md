@@ -20,6 +20,8 @@ Key Features:
 
 • Thumb friendly - designed to be used with just a thumb.
 
+Welcome to submit issues.
+
 <img width="1080" height="2400" alt="Screenshot_20260526_185711" src="https://github.com/user-attachments/assets/1564ee53-a952-4d45-b64b-e39878d18311" />
 
 <img width="1080" height="2400" alt="Screenshot_20260526_183719" src="https://github.com/user-attachments/assets/a74457a2-21f5-4a2b-8d71-f08d67e061ac" />
