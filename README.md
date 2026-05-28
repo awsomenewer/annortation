@@ -29,7 +29,7 @@ Welcome to submit issues.
 
 <img width="1080" height="2400" alt="Screenshot_20260526_183719" src="https://github.com/user-attachments/assets/a74457a2-21f5-4a2b-8d71-f08d67e061ac" />
 <img width="1080" height="2400" alt="Screenshot_20260526_185828" src="https://github.com/user-attachments/assets/e76f8383-5f50-4e9b-9239-652d6e72a9b8" />
-<img width="1080" height="2400" alt="Screenshot_20260526_185744" src="https://github.com/user-attachments/assets/3e148538-d005-4409-9dfc-48e3385dba0c" />
+
 
 
 
